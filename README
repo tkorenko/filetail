@@ -1,3 +1,15 @@
 
-A Python class that opens a file at the position of its last read.
-It should keep state somewhere else (in another file).
+FileTail
+  a Python class that is designed to open a file at the position of its last
+  read.  It keeps its state somewhere else (in another file).
+
+
+Included are two usage examples:
+
+run1.py
+  This is an example of use of FileTail class for efficient tracking recently
+  added information to a text file.
+
+run2.py
+  This is an example of use of FileTail for passing information from invocation
+  to invocation.

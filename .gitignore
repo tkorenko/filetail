@@ -1,0 +1,5 @@
+*.pyc
+data/**
+!data/tracked_file
+junk/**
+!junk/.gitdontignore
