@@ -1,0 +1,3 @@
+
+A Python class that opens a file at the position of its last read.
+It should keep state somewhere else (in another file).
